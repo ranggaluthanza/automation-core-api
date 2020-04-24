@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create record without mandatory field and is_use_category value is True</description>
+   <name>RecordWithoutMandatoryAndIsUseCategoryTrue</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e5d82b9c-42e0-46d6-b7a9-be5f2c6d8356</testCaseGuid>
+</TestCaseEntity>

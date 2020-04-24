@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create record with is_use_category and is_use_amount's values are False</description>
+   <name>RecordWithUseCategoryandAmountAreFalse</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6718e973-6c9e-4f60-b96e-5279566fcca4</testCaseGuid>
+</TestCaseEntity>

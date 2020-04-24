@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create record with full body request and is_use_amount value is True</description>
+   <name>RecordFullBodyRequestAndIsUseAmountTrue</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a630fa0a-7339-48f4-b8a9-1be67cb0e1a2</testCaseGuid>
+</TestCaseEntity>

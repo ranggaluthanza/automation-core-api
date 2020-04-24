@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>QA</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://10.0.17.62/jojoform-transaction-service/public'</initValue>
+      <name>MicroServices</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://10.0.17.62/api-gateway/public'</initValue>
+      <name>APIGateway</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

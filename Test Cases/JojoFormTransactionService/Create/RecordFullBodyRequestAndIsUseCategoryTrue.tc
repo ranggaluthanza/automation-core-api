@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create record with full body request and is_use_category value is True</description>
+   <name>RecordFullBodyRequestAndIsUseCategoryTrue</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c683d13f-e27c-4e3b-ada7-0d26ff224951</testCaseGuid>
+</TestCaseEntity>
