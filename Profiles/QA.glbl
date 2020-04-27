@@ -14,4 +14,9 @@
       <initValue>'http://10.0.17.62/api-gateway/public'</initValue>
       <name>APIGateway</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://10.0.17.62/jojoform-service/public'</initValue>
+      <name>MicroServicesSetupForm</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
