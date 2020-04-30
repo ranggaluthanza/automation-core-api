@@ -16,5 +16,5 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 
 WS.sendRequestAndVerify(findTestObject('MicroServices/JojoFormTransactionService/Public/detail', [('url') : GlobalVariable.MicroServices
-            , ('id') : 716]))
+            , ('id') : 1087]))
 

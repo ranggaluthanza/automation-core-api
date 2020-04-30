@@ -15,6 +15,6 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 
-WS.sendRequestAndVerify(findTestObject('MicroServices/JojoFormTransactionService/Public/submit', [('url') : GlobalVariable.MicroServices, ('ids') : [
-                2760]]))
+WS.sendRequestAndVerify(findTestObject('MicroServices/JojoFormTransactionService/Public/submit', [('url') : GlobalVariable.MicroServices
+            , ('ids') : [2760]]))
 
